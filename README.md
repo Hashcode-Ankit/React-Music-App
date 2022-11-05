@@ -1,12 +1,9 @@
 # Music Player.
 
-Minimalistic Music Player using react
+Minimalistic Music Player using react for coders
 
-![alt text](https://i.ibb.co/VtT4JPc/image.png "Vibes music web application")
-![alt text](https://i.ibb.co/CtSvzvd/image.png "Vibes music web application with libraries")
-
-
-
+![alt text](<a href="React-Music-App/public/coderMusic.png"></a> "Coder music web application")
+![alt text](<a href="React-Music-App/public/coderMusicWithLibrary.png"><a> "Coder music web application with Library")
 Clone the repository and start testing out the application yourself!
 
 In the project directory, you can run:
