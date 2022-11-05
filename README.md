@@ -1,9 +1,10 @@
 # Music Player.
 
 Minimalistic Music Player using react for coders
+<img src="public/coderMusic.png"></img> 
+<img src="public/coderMusicWithLibrary.png"></img>
 
-![alt text](<a href="React-Music-App/public/coderMusic.png"></a> "Coder music web application")
-![alt text](<a href="React-Music-App/public/coderMusicWithLibrary.png"><a> "Coder music web application with Library")
+
 Clone the repository and start testing out the application yourself!
 
 In the project directory, you can run:
